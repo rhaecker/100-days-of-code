@@ -14,7 +14,7 @@
 
 **Thoughts:** I need to brush up my Markdown Knowledge, so for now I'm using this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). As much as I enjoyed planning and thinking about the app, I'm looking forward to actually code something.
 
-**Link to work:** [repository for the plan](https://github.com/rhaecker/buzzz) [repository for the backend](https://github.com/rhaecker/buzzz-backend)
+**Link to work:** [repository for the plan](https://github.com/rhaecker/buzzz), [repository for the backend](https://github.com/rhaecker/buzzz-backend)
 
 ### Day 2: April 28, 2021
 
