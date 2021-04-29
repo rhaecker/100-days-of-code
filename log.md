@@ -23,3 +23,11 @@
 **Thoughts:** I never worked with a public repository, so I need to keep in mind not to accidently leak some information like the database connection data. 
 
 **Link to work:** [commit](https://github.com/rhaecker/buzzz-backend/commit/91b77fbb2410df4ebc85ed0f94a7df92669d2600)
+
+### Day 3: April 29, 2021
+
+**Today's Progress**: I worked on different configuration options and als started writing something about it.
+
+**Thoughts:** Testing stuff and writing about it, takes me a lot of time, I think I need to improve my workflow here.
+
+**Link to work:** sadely nothing. It took me longer than expected, so I have nothing that I could commit or upload yet.
