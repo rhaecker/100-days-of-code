@@ -30,4 +30,12 @@
 
 **Thoughts:** Testing stuff and writing about it, takes me a lot of time, I think I need to improve my workflow here.
 
-**Link to work:** sadely nothing. It took me longer than expected, so I have nothing that I could commit or upload yet.
+**Link to work:** sadly nothing. It took me longer than expected, so I have nothing that I could commit or upload yet.
+
+### Day 4: May 01, 2021
+
+**Today's Progress**: I wrote a lengthy piece, just to realize, I need to learn to read. Will decide tomorrow if I publish it anyway.
+
+**Thoughts:** I'm still slow at writing. Maybe I can spend tomorrow looking for tips on it. Also I didn't manage to code on friday, so I spend some more time today.
+
+**Link to work:** sadly nothing. It took me longer than expected, so I have nothing that I could commit or upload yet.
