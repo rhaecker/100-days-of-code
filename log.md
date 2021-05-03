@@ -39,3 +39,11 @@
 **Thoughts:** I'm still slow at writing. Maybe I can spend tomorrow looking for tips on it. Also I didn't manage to code on friday, so I spend some more time today.
 
 **Link to work:** sadly nothing. It took me longer than expected, so I have nothing that I could commit or upload yet.
+
+### Day 5: May 03, 2021
+
+**Today's Progress**: Finally added the database configuration from the .env file. I managed to do it in a way, so I can configure multiple databases from there.
+
+**Thoughts:** Wow, I suck at this. I skipped 2 days within the first week, which would technically make me fail this callenge already.
+
+**Link to work:** https://github.com/rhaecker/buzzz-backend/commit/6e013b3431faf4422005984d27b178c8fdaaa70b
