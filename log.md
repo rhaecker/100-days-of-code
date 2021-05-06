@@ -47,3 +47,11 @@
 **Thoughts:** Wow, I suck at this. I skipped 2 days within the first week, which would technically make me fail this callenge already.
 
 **Link to work:** https://github.com/rhaecker/buzzz-backend/commit/6e013b3431faf4422005984d27b178c8fdaaa70b
+
+### Day 6: May 04, 2021
+
+**Today's Progress**: Finished a short write up of my adventures with configuring the database. It contains mostly the results.
+
+**Thoughts:** Not much. Forgot to write the log and commit.
+
+**Link to work:** https://dev.to/raphael_haecker/nestjs-and-typeorm-database-configuration-15ob
