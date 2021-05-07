@@ -55,3 +55,12 @@
 **Thoughts:** Not much. Forgot to write the log and commit.
 
 **Link to work:** https://dev.to/raphael_haecker/nestjs-and-typeorm-database-configuration-15ob
+
+### Day 7: May 06, 2021
+
+**Today's Progress**: Finished the story about me and the database config. Also started adding CRUD functionality for Hosts of Buzzz.
+
+**Thoughts:** The CLI of Nest ist cool. Takes away a lot of work with creating the basic structures of the modules.
+
+**Link to work:** [dev.to](posthttps://dev.to/raphael_haecker/what-i-learned-about-external-configuration-of-the-database-connection-in-nestjs-3jhh)
+[code](https://github.com/rhaecker/buzzz-backend/commit/3df7982726babb3511296876d6fff8541e08ad38)
