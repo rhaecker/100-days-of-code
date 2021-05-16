@@ -64,3 +64,11 @@
 
 **Link to work:** [dev.to](posthttps://dev.to/raphael_haecker/what-i-learned-about-external-configuration-of-the-database-connection-in-nestjs-3jhh)
 [code](https://github.com/rhaecker/buzzz-backend/commit/3df7982726babb3511296876d6fff8541e08ad38)
+
+### Day 8: May 16, 2021
+
+**Today's Progress**: I have a working CRUD example for the Host. Started reading on how to work with mongodb.
+
+**Thoughts:** Had to take a break, because something else came up and needed my attention. On the project: I'm new to mongo, so I need to look into how things work.
+
+**Link to work:** [code](https://github.com/rhaecker/buzzz-backend/commit/2001d0b83311e43c70584706ec4353146a27f9cf)
