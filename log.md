@@ -72,3 +72,11 @@
 **Thoughts:** Had to take a break, because something else came up and needed my attention. On the project: I'm new to mongo, so I need to look into how things work.
 
 **Link to work:** [code](https://github.com/rhaecker/buzzz-backend/commit/2001d0b83311e43c70584706ec4353146a27f9cf)
+
+### Day 9: May 17, 2021
+
+**Today's Progress**: Worked on checking the email of the host, before adding a new, so there is only one.
+
+**Thoughts:** I'm not sure yet, what is the better approach, querying the db for objects with the email or adding a unique index and trying to add the new object. I will read on it. 
+
+**Link to work:** nothing committed, because it's all unfinished pieces I used for testing. 
