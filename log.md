@@ -80,3 +80,11 @@
 **Thoughts:** I'm not sure yet, what is the better approach, querying the db for objects with the email or adding a unique index and trying to add the new object. I will read on it. 
 
 **Link to work:** nothing committed, because it's all unfinished pieces I used for testing. 
+
+### Day 10: May 18, 2021
+
+**Today's Progress**: I didn't work on the buzzz project today, instead I prepared an exam for a student.
+
+**Thoughts:** I really don't like this, there is too much on stake for me to feeld comfortable in this situation.
+
+**Link to work:** Obviously can't link the exam.
