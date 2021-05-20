@@ -88,3 +88,11 @@
 **Thoughts:** I really don't like this, there is too much on stake for me to feeld comfortable in this situation.
 
 **Link to work:** Obviously can't link the exam.
+
+### Day 11: May 20, 2021
+
+**Today's Progress**: Added an unique index to email and also an endpoint to check if the email is already taken (let's see if I actually need that).
+
+**Thoughts:** Slowly starting to feel comfortable with this and having ideas how to solve some of the problems I encounter. 
+
+**Link to work:** [code](https://github.com/rhaecker/buzzz-backend/commit/6cd3c365dac61f387af174aca108d31b744a5fb5)
