@@ -96,3 +96,11 @@
 **Thoughts:** Slowly starting to feel comfortable with this and having ideas how to solve some of the problems I encounter. 
 
 **Link to work:** [code](https://github.com/rhaecker/buzzz-backend/commit/6cd3c365dac61f387af174aca108d31b744a5fb5)
+
+### Day 12: May 26, 2021
+
+**Today's Progress**: Spent the last two days watching a conference in my spare time, so not much work was done here.
+
+**Thoughts:** I was reminded what I'm doing wrong with this challenge, I'm lacking consistency. I should do this 1 hour per day, ideally at the same time, to build a habbit. So I will try to figure this part out.
+
+**Link to work:** link to conference Twitter:  https://twitter.com/MagnoliaJSconf
