@@ -104,3 +104,11 @@
 **Thoughts:** I was reminded what I'm doing wrong with this challenge, I'm lacking consistency. I should do this 1 hour per day, ideally at the same time, to build a habbit. So I will try to figure this part out.
 
 **Link to work:** link to conference Twitter:  https://twitter.com/MagnoliaJSconf
+
+### Day 13: May 31, 2021
+
+**Today's Progress**: Added a module for the games. I let Nest generate most of it and added some code to make it talk to the database.
+
+**Thoughts:** I realized, I need to change my approach to this challenge, because completing the first two weeks took me more than one month. Two steps I'm planning to take to change this in the future, I'm changing my schedule (getting up an hour early to work on this) and I will make a more detailed plan for my work.
+
+**Link to work:** [code](https://github.com/rhaecker/buzzz-backend/commit/8af372da257a1f829a920a37952d2af71485efde)
