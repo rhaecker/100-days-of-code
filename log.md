@@ -112,3 +112,11 @@
 **Thoughts:** I realized, I need to change my approach to this challenge, because completing the first two weeks took me more than one month. Two steps I'm planning to take to change this in the future, I'm changing my schedule (getting up an hour early to work on this) and I will make a more detailed plan for my work.
 
 **Link to work:** [code](https://github.com/rhaecker/buzzz-backend/commit/8af372da257a1f829a920a37952d2af71485efde)
+
+### Day 14: June 1, 2021
+
+**Today's Progress**: Finished the CRUD functionality for the games. Also planned some to dos for the next days.
+
+**Thoughts:** It was good sitting down for a while, think about the next steps and writing them down. An hour is a short amount of time, so knowing what to do is really helpful.
+
+**Link to work:** [code](https://github.com/rhaecker/buzzz-backend/commit/4c0f4413ca06b3ba521aacd5d9205b9d290f0152)
