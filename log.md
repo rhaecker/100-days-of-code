@@ -120,3 +120,11 @@
 **Thoughts:** It was good sitting down for a while, think about the next steps and writing them down. An hour is a short amount of time, so knowing what to do is really helpful.
 
 **Link to work:** [code](https://github.com/rhaecker/buzzz-backend/commit/4c0f4413ca06b3ba521aacd5d9205b9d290f0152)
+
+### Day 15: June 2, 2021
+
+**Today's Progress**: Started implementing Passport to make authentication for administrators possible.
+
+**Thoughts:** The third day in a row I got up an hour earlier to work on this, feels good.
+
+**Link to work:** nothing committed yet.
