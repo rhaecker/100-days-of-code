@@ -128,3 +128,11 @@
 **Thoughts:** The third day in a row I got up an hour earlier to work on this, feels good.
 
 **Link to work:** nothing committed yet.
+
+### Day 16: June 3, 2021
+
+**Today's Progress**: Continued implementing Passport to make authentication for administrators possible.
+
+**Thoughts:** I couldn't really force my self to get up too early on a public holiday. So out of the schedule again, also was not that focused and productive today.
+
+**Link to work:** nothing committed yet.
