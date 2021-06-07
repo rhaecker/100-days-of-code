@@ -136,3 +136,10 @@
 **Thoughts:** I couldn't really force my self to get up too early on a public holiday. So out of the schedule again, also was not that focused and productive today.
 
 **Link to work:** nothing committed yet.
+
+### Day 17: June 7, 2021
+
+**Today's Progress**: Continued implementing Passport to make authentication for administrators possible.
+
+**Thoughts:** Not much time today, didn't get up as early as necessary, so I couldn't work the full 60 minutes. But spending 30 minutes on this is better than nothing.
+**Link to work:** nothing committed yet.
